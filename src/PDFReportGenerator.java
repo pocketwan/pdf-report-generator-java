@@ -1,5 +1,5 @@
 /*
- * Copyright © 2024 Thabo Pokothoane. All rights reserved.
+ * Copyright © 2024 T. Pokothoane. All rights reserved.
  *
  * Project: PDF Report Generator in Java using Apache PDFBox
  */
